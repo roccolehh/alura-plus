@@ -10,5 +10,8 @@ body{
     color:var(--branco-principal);
 }
 
-.principal
-    backgroud-image: url("backgroud.png");
+.principal{
+    background-image: url("backgroud.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
