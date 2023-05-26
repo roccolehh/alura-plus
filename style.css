@@ -30,6 +30,7 @@ body{
     padding: 16px;
     text-decoration: none;
     display: block;
+    margin-bottom: 16px;
 }
 .principal-botão-2 {
     background-color: transparent;
@@ -39,14 +40,20 @@ body{
     padding: 16px;
     text-decoration: none;
     display: block;
+    margin-bottom: 16px;
 }
 
 .principal-titulo{
     font-size: 28px;
     font-weight: 700;
+
 }
 
 .principal-aviso{
     font-size: 14px;
     color: var(--cinza-secundario);
+}
+
+.principal-imagem{
+    margin: 16px 0 32px 0;
 }
